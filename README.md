@@ -1,6 +1,16 @@
-English
+# Smokers’ Status Prediction
 
-Smokers’ Status Prediction
+
+## ROC-AUC-CURVE 
+![](roc-auc-curve.png)
+
+## LEARNING-CURVE 
+![](learning-curve.png)
+
+## LEARNING-CURVE-ENSAMBLE
+![](learning-curve-ensamble.png)
+
+## English
 
 This project aims to predict individuals’ smoking status based on various health and biometric features using machine learning. The dataset includes multiple attributes like age, height, weight, blood pressure, and other health indicators, which are used to build a classification model.
 
@@ -34,7 +44,7 @@ cd Smokers-Status-Prediction
 
 	2.	Open main.ipynb in Jupyter Notebook to view the full data analysis, model training, and prediction steps.
 
-Russian
+## Russian
 
 Прогнозирование Статуса Курения
 
@@ -70,7 +80,7 @@ cd Smokers-Status-Prediction
 
 	2.	Откройте main.ipynb в Jupyter Notebook для просмотра анализа данных, обучения модели и этапов предсказания.
 
-Uzbek
+## Uzbek
 
 Chekish Holatini Bashorat Qilish
 
